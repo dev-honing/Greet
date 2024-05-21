@@ -5,3 +5,10 @@
 * ¸â¹ö ÇÔ¼ö: setName(), setTime()
 */
 
+#include <iostream>
+
+int main() {
+	printf("Hello, C++!");
+
+	return 0;
+}
